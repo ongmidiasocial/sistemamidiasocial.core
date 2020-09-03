@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaMidiaSocial.Core.Api", "SistemaMidiaSocial.Core.Api\SistemaMidiaSocial.Core.Api.csproj", "{21A5C30D-54A4-44DB-A152-403E8B58D378}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemasMidiaSocial.Core.Service", "SistemasMidiaSocial.Core.Service\SistemasMidiaSocial.Core.Service.csproj", "{4167DECC-4C4E-49BE-9553-ABEC032935EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaMidiaSocial.Core.Repository", "SistemaMidiaSocial.Core.Repository\SistemaMidiaSocial.Core.Repository.csproj", "{5ADBB2BE-FE4F-4EFA-AB1E-9F5E4CFEA796}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaMidiaSocial.Core.Model", "SistemaMidiaSocial.Core.Model\SistemaMidiaSocial.Core.Model.csproj", "{FDA6B48D-4BEA-462D-A5BD-8285BDC54E3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaMidiaSocial.Core.Common", "SistemaMidiaSocial.Core.Common\SistemaMidiaSocial.Core.Common.csproj", "{D2A27A98-34D1-44AF-A0DB-D95FD9CB4764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaMidiaSocial.Core.Test", "SistemaMidiaSocial.Core.Test\SistemaMidiaSocial.Core.Test.csproj", "{80C4877E-769C-4CB2-A486-FD3647D906B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21A5C30D-54A4-44DB-A152-403E8B58D378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A5C30D-54A4-44DB-A152-403E8B58D378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A5C30D-54A4-44DB-A152-403E8B58D378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A5C30D-54A4-44DB-A152-403E8B58D378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4167DECC-4C4E-49BE-9553-ABEC032935EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4167DECC-4C4E-49BE-9553-ABEC032935EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4167DECC-4C4E-49BE-9553-ABEC032935EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4167DECC-4C4E-49BE-9553-ABEC032935EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ADBB2BE-FE4F-4EFA-AB1E-9F5E4CFEA796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADBB2BE-FE4F-4EFA-AB1E-9F5E4CFEA796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ADBB2BE-FE4F-4EFA-AB1E-9F5E4CFEA796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ADBB2BE-FE4F-4EFA-AB1E-9F5E4CFEA796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA6B48D-4BEA-462D-A5BD-8285BDC54E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA6B48D-4BEA-462D-A5BD-8285BDC54E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA6B48D-4BEA-462D-A5BD-8285BDC54E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA6B48D-4BEA-462D-A5BD-8285BDC54E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A27A98-34D1-44AF-A0DB-D95FD9CB4764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A27A98-34D1-44AF-A0DB-D95FD9CB4764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A27A98-34D1-44AF-A0DB-D95FD9CB4764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A27A98-34D1-44AF-A0DB-D95FD9CB4764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80C4877E-769C-4CB2-A486-FD3647D906B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C4877E-769C-4CB2-A486-FD3647D906B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C4877E-769C-4CB2-A486-FD3647D906B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C4877E-769C-4CB2-A486-FD3647D906B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {507D57C3-AD7B-4964-957C-3955580B3F35}
+	EndGlobalSection
+EndGlobal
